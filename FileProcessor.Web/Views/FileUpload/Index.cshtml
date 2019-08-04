@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>FileUpload</h2>
+
+<html>
+<body>
+    <form action="/FileUpload/Index" method="post" enctype="multipart/form-data">
+
+        <label for="File">File</label>
+        <input type="file" name="File" id="File" />
+        <input type="submit" value="Upload" onclick="upload();" />
+        @if (TempData["errorMessage"] != null)
+        {
+            <h2>@TempData["errorMessage"]</h2>
+        }
+    </form>
+    <script>
+        function upload() {
+            window.location.href = "/FileUpload/Index"
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<FileProcessor.Web.Models.UserModel>
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h4>Müşteri Sorgulama</h4>
+
+<form>
+    Adı &nbsp; &nbsp; &nbsp; <input id="name" type="text" value=""> &nbsp;&nbsp; Telefon &nbsp; <input id="telephone" type="tel" value="">
+    <br>
+    Soyadı <input id="surname" type="text" value=""> &nbsp;&nbsp; Adres &nbsp; &nbsp; &nbsp; <input id="address" type="text" value="">
+    <br>
+    <input type="button" value="Filtrele" onclick="FilterClick();">
+</form>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>            
+        </tr>
+    }
+
+</table>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 1px;
+        text-align: center;
+    }
+</style>
+
+
+<script>
+    function FilterClick() {
+
+        var name = $("#name").val().trim();
+        var surname = $("#surname").val().trim();
+        var telephone = $("#telephone").val().trim();
+        var address = $("#address").val().trim();
+        window.location.href = "/User/Index?Name=" + name + "&surname=" + surname + "&telephone=" + telephone + "&address=" + address;
+    }
+</script>

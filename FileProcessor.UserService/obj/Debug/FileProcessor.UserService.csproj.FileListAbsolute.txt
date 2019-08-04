@@ -1,0 +1,14 @@
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\bin\FileProcessor.UserService.dll.config
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\bin\FileProcessor.UserService.dll
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\bin\FileProcessor.UserService.pdb
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.csprojAssemblyReference.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.csproj.CoreCompileInputs.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.dll
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\bin\FileProcessor.UserService.dll.config
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\bin\FileProcessor.UserService.dll
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\bin\FileProcessor.UserService.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.csproj.CoreCompileInputs.cache
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.dll
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.UserService\obj\Debug\FileProcessor.UserService.csprojAssemblyReference.cache

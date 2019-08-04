@@ -1,0 +1,14 @@
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\bin\Debug\FileProcessor.WindowsService.exe.config
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\bin\Debug\FileProcessor.WindowsService.exe
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\bin\Debug\FileProcessor.WindowsService.pdb
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.csprojAssemblyReference.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.exe
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\bin\Debug\FileProcessor.WindowsService.exe.config
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\bin\Debug\FileProcessor.WindowsService.exe
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\bin\Debug\FileProcessor.WindowsService.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.csprojAssemblyReference.cache
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.exe
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.WindowsService\obj\Debug\FileProcessor.WindowsService.pdb

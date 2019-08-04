@@ -1,0 +1,7 @@
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\obj\Debug\FileProcessor.Console.csproj.CoreCompileInputs.cache
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\bin\Debug\FileProcessor.Console.exe.config
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\bin\Debug\FileProcessor.Console.exe
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\bin\Debug\FileProcessor.Console.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\obj\Debug\FileProcessor.Console.exe
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\obj\Debug\FileProcessor.Console.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Console\obj\Debug\FileProcessor.Console.csprojAssemblyReference.cache

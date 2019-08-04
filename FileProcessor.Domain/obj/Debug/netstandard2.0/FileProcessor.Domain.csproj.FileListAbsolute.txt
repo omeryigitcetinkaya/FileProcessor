@@ -1,0 +1,27 @@
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.deps.json
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.dll
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.pdb
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csprojAssemblyReference.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfoInputs.cache
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfo.cs
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.dll
+C:\Users\mrihtim\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.deps.json
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.dll
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfoInputs.cache
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfo.cs
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.dll
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.pdb
+C:\Users\ycetinkaya\Desktop\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csprojAssemblyReference.cache
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.deps.json
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.dll
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.pdb
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csprojAssemblyReference.cache
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csproj.CoreCompileInputs.cache
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfoInputs.cache
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfo.cs
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.dll
+E:\Yiğit Projesi\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.pdb
